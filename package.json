@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/cassiano018.questao1",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve aekQOgfAjVCTOhtzOq5C --open"
+  }
+}
